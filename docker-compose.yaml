@@ -8,3 +8,4 @@ services:
       - "5033:5033"
     volumes:
       - .:/gonulapp
+      - ./volfolder:/volfolder
