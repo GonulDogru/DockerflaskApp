@@ -31,6 +31,10 @@ docker start flask_app
 docker stop flask_app
 ```
 
+## Volume Folder
+Github üzerindeki volfolder klasörü docker ile yaml üzerinden eşleştirilmiştir.
+
+
 ## TEST
 Programın docker ile ayağa kalktığını test edelim.
 ```bash
